@@ -1,0 +1,10 @@
+.contenedor{
+    display: grid;
+    grid-template-columns: 150px 150px;
+    grid-template-rows: 150px 150px;
+    place-items: center; 
+}
+.caja{
+    background-color: aqua;
+    border: 2px solid brown;
+}
